@@ -503,9 +503,7 @@ p:hover{
 
 /* For mobile devices */
 @media (max-width: 600px) {
-    *{
-        padding-top:10px;
-    }
+    
     #spoti{
         display: none;
     }
